@@ -1,0 +1,106 @@
+h1{
+	color: #B76E79;
+  text-align: center;
+
+  
+  }
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 19px;
+}
+
+img{
+	width: 750px;
+	height: 570px;
+  max-width: 100%;
+}
+
+h2{
+color: black;
+  text-align: center;
+  text-shadow: 2px 2px orangered;
+  background-color: aliceblue;
+}
+
+p2{
+  color: black;
+  font-size: 23px;
+  font-family: cursive;
+}
+
+.top-bar{
+	background-color: aliceblue;
+  height: 45px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#section_1{
+	background: #B87333;
+	color: burlywood;
+}
+
+#section_2{
+  background: blanchedalmond;
+  color: burlywood;
+}
+
+.footer h1 {
+	color: bisque;
+}
+
+.slideshow {
+  height: 400px;
+  width: 950px;
+  overflow: hidden;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.slideshow .images{
+  height: 100%;
+  width: 100%;
+}
+.images img{
+  height: 100%;
+  width: 100%;
+}
+
+.block {
+display: block;
+width:18%;
+background-color: #B76E79;
+border: none;
+background: color #040404;
+padding: 14px 28px;
+font-size: 16px;
+cursor: pointer;
+text-align: center;
+position: relative; 
+justify-content: center;
+margin-left: 80%;
+}
+
+.block:hover {
+    background-color: #5C589D;
+    color: black;
+}
+
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  border: 2px none; #4CAF50;
+  color: darkred;
+}
+
+
+
